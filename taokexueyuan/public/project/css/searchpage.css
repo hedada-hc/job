@@ -1,0 +1,28 @@
+.searchresults{width:100%;min-height:750px;background: #f6f6f6;border-top:3px solid #9fd78b;padding-top: 15px;}
+.main{min-height:700px;height:auto !important;height:700px;background:#fff;}
+.title{width:1000px;height:22px;background: #f6f6f6;border-bottom:2px solid #e8e8e8;}
+.title p{width:75px;line-height:22px;text-align:center;font-size:14px;color:#34bd5a;background:#fff;border-bottom:2px solid #fff;border-top:2px solid #e8e8e8;border-right:2px solid #e8e8e8;}
+.searchinfro li{width:730px;height:100%;padding:10px 0 10px 10px;border-bottom:1px solid #e8e8e8;}
+.searchinfro li img{float:left;width:180px;height:120px;}
+.videoinfro{width:520px;margin-left: 25px;}
+.searchinfro li a{display:block;line-height:16px;font-size:14px;color:#494949;}
+.searchinfro li a:hover,.searchinfro li a:active{color:#34b958;}
+.searchinfro li p{line-height: 24px;font-size: 12px;color:#707070;}
+.videoinfro a{margin-bottom: 10px;}
+.playinfro{height: 20px;font-size: 12px;color:#a4a4a4;margin-top: 30px;position: relative;}
+.playinfro .icon1{padding-left: 20px;}
+.playinfro .icon2{padding-left: 58px;}
+.playinfro i{width:14px;height:14px;background: url(../images/allbgs.png) no-repeat;position: absolute;top:1px;left:1px;}
+.playinfro .icon1 i{background-position: -178px -88px;top:0;left:1px;}
+.playinfro .icon2 i{background-position: -153px -88px;top:0;left:95px;}
+
+.searchinfro .video2{width:705px;padding-left: 35px;position: relative;}
+.searchinfro .video2 a{margin:10px 0;}
+.searchinfro .video2 .playlist{width:16px;height:16px;line-height:16px;text-align:center;color:#fff;background: url(../images/allbgs.png) no-repeat -407px -110px;top:20px;left:12px;}
+.searchinfro .video2 span{color:#a4a4a4;position: absolute;top:22px;right:16px;}
+.recommend{width:220px;padding:0 20px;}
+.recommend p{height:36px;line-height:36px;font-size:14px;color:#707070;}
+.recommend li{height:40px;line-height:40px;font-size:12px;color:#494949;border-bottom:1px solid #e8e8e8; }
+.recommend li a:hover,.recommend li a:active{color:#34b958;}
+
+.prompt p{width:730px;text-align:center;height:20px;margin:80px 0;font-size: 20px;color:#a4a4a4;display:none;}
